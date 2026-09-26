@@ -22,5 +22,9 @@ LOS COMANDOS APRENDIDOS situacion
 
 11.git push  sube a github la informacion que eat en lso commit
 
-12. rm -rf  elimina la carpeta y su contenido
+12. rm -rf  elimina la carpeta y su contenidoa
+
+13. git log muestra los commit hechos
  
+14. cd .. es paar salirse de las carpetas
+

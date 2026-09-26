@@ -1,0 +1,15 @@
+Para crear versiones  y subirlo se usa
+
+inico la carpeta con git init
+
+primero pones git status par ver la informacion fuera del area de preparacion
+
+pongo git add . para meter la informacion del area de preparacion
+
+confirmo con git status
+
+ecribo git commit -m " " para crear la primera version del projecto
+
+confirmo que crer el commit con git log
+
+y alfinal pongo git push y conecta con GITHUB
