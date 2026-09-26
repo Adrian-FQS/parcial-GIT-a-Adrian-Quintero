@@ -1,0 +1,11 @@
+Descripocion de 5 acciones durante la practica
+
+1. Cree la carpeta princial con Mkdir par enpesar a trabajar
+
+2. Use touch para crear archivos como datos-estudiantes entre otros
+
+3. Actaulise las configuraciones de git con git config -- global use name y user email
+
+4.Inicie visual studio code para modificar los archivos para no usar echo con code .
+
+5.Entre a la carpeta con cd y nombre de la carpeta

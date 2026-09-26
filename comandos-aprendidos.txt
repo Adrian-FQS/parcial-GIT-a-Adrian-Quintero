@@ -1,0 +1,26 @@
+LOS COMANDOS APRENDIDOS situacion
+
+1. mkdir crea la carpeta
+
+2. cd entra a las carpetas
+
+3.code .  inica visual studio code
+
+4.git config --globar list   verifico las credenciales de GIT
+
+5.git init  inico el repositorio
+
+6.touch creo archivo vacio
+
+7.git commit -m "  " creo los commit para llevar registro
+
+8.git add . agrego a la area de preparacion lo que llevo hecho
+
+9.git status muestar y verifica que informacion esta en la area de preparacion
+
+10.ls muestra en que ruta esta
+
+11.git push  sube a github la informacion que eat en lso commit
+
+12. rm -rf  elimina la carpeta y su contenido
+ 
